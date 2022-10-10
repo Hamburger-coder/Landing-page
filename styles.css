@@ -1,0 +1,22 @@
+.flex-container {
+  display: flex;
+}
+
+.logo {
+  background: peachpuff;
+  height:30px;
+  flex: 1;
+  justify-content: flex-start;
+}
+
+ .link-navbar {
+  background: peachpuff;
+  height: 30px;
+  flex: 1;
+  justify-content: flex-end;
+  display: flex;
+ }
+
+ .h5-logo {
+  margin-top: 0px;
+ }
