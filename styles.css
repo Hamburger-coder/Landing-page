@@ -19,6 +19,7 @@ body {
 .logo {
   height:30px;
   flex: 1;
+  margin-left: 70px;
   justify-content: flex-start;
 }
 
@@ -27,7 +28,24 @@ body {
   flex: 1;
   justify-content: flex-end;
   display: flex;
+  margin-right:40px;
  }
+
+.navbarLinks {
+  color: black;
+}
+
+.signupLink {
+  color: white;
+  padding: 5px;
+  background-color: #3882F6;
+  border-radius: 5px;
+  border-color: #3882F6;
+}
+
+.signupButton {
+  color: blue;
+}
 
  .h5-logo {
   margin-top: 0px;
@@ -62,4 +80,8 @@ h1 {
  .link-to-signup {
   flex: 1;
   margin-left: 70px;
+ }
+
+ .header-img {
+  margin-right: 40px;
  }
