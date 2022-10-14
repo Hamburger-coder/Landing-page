@@ -85,3 +85,14 @@ h1 {
  .header-img {
   margin-right: 40px;
  }
+
+ .testimonysHeader {
+  text-align: center;
+ }
+
+
+ .testimonys {
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+ }

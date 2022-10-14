@@ -2,3 +2,7 @@ Thursday, October 13, 2022
 1. Moved content away from the walls.
 2. Changed Color of button text and background.
 3. Linked the signup button to stackoverflow signup.
+
+Friday, October 14, 2022
+1. Added a new section.
+3. Added a header and photo.
