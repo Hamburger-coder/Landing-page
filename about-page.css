@@ -9,3 +9,8 @@ p {
 body {
   background-color: #1F2937;
 }
+
+a {
+  display: flex;
+  justify-content: center;
+}

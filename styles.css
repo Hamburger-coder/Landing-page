@@ -54,6 +54,9 @@ body {
  .logo-link {
   color: black;
   text-decoration: none;
+  background-color:#053652;
+  border-color: #053652;
+  border-radius: 10px;
  }
 
  .welcometext-img {
